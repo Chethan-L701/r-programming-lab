@@ -3,7 +3,7 @@
 ## Programs
 
 - [Simple Calculator](./simplecal.r) : Program to implement a simple calculator in r.
-- [Operations a Vector of String](./stropvec.r) : Program to perform Operations on a Vector of String like append, insert and search.
+- [Operations on a Vector of String](./stropvec.r) : Program to perform Operations on a Vector of String like append, insert and search.
 - [Factorial](./factorial.r) : Program to take a number as a input and print its factorial.
 - [Fibonacci](./fibonacci.r) : Program to print the fibonacci sequence.
 - [Multipication Table](./multable.r) : Program to print multiplication table using for, while and repeat loops.
